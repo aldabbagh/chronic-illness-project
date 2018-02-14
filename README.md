@@ -1,0 +1,2 @@
+# chronic-illness-project
+This project aims to help people (or their family/friends) who suffer from chronic illnesses or genetic disorders to be able to exchange ideas and learn more about the disease and how to cope with it. They can participate in support groups in their local area or even online. A portal for doctors, allow them to consult volunteer doctors as necessary. This is important in countries where education levels are low in which this platform will help raise awareness and hopefully help them cope with their conditions.
